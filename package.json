@@ -1,0 +1,19 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "This is just sample project we are creating",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Abhi Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
